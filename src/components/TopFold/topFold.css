@@ -1,0 +1,9 @@
+.topfold {
+  height: 92vh;
+  overflow: hidden;
+}
+
+.tf-left {
+  display: flex;
+  flex-direction: column;
+}

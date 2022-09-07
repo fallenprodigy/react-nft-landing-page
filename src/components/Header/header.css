@@ -1,0 +1,14 @@
+.header {
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 10px 0px 0px;
+  letter-spacing: 12px;
+}
+
+.heading-gradient {
+  background: var(--text-gradient-bg);
+  background: var(--text-gradient-1);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
